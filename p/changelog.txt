@@ -1,0 +1,51 @@
+LAST UPDATED January 20, 2017
+==== Roadmap ====
+NOTE: The dates listed on each version are only there to keep us motivated to keep development going. 
+We may push updates sooner than those listed dates.
+Also, some features listed under a version may not be implemented on that version or at all, this is more of a brainmap than a roadmap. 
+Please see the changelog below the roadmap to see the things that we add/remove/fix on each update.
+
+
+1.4 - February 20, 2017
+- Public/Anonymous API
+
+x.x - TBD
+- Private Uploads
+- Deletion of images 
+- Albums
+- Multi-Language Support
+- Redesign for entire site
+- Move images to https://i.imglnx.com
+- Short URLs (when we can find a short domain - suggest one to us)
+- Status Page
+
+==== Changelog ====
++ Added
+- Removed
+! Fixed
+~ Changed/Updated
+===================
+
+1.3.1 - January 20, 2017
++ Added Webm support
+
+1.3 - January 12, 2017
++ Blog Page
++ Contact Form
+~ Moved to new host
+~ Updated max size to 100MB
+
+1.2.1 - December 18, 2016
++ Share on Social media buttons
+! Fixed design on /p/ pages
+
+1.2 - December 17, 2016
++ Random Image Page /rand/
+~ Redesign
+
+1.1 - December 14, 2016
++ About and FAQ page
+~ Changed image hash size 6 -> 10 -> 40
+
+1.0 - December 6, 2016
++ Initial Launch
